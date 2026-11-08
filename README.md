@@ -4,7 +4,7 @@
 
 Публичный адрес после включения GitHub Pages:
 
-https://scleroze.github.io/gorinov-archive/
+https://gorinov.org/
 
 Telegram:
 
