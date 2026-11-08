@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://scleroze.github.io/gorinov-archive/sitemap.xml
+Sitemap: https://gorinov.org/sitemap.xml
