@@ -279,3 +279,23 @@ h3 {
     gap: 8px;
   }
 }
+
+
+.hero-portrait {
+  margin: 0;
+  align-self: center;
+}
+
+.hero-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  background: var(--paper);
+}
+
+.hero-portrait figcaption {
+  margin-top: 9px;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
