@@ -4,5 +4,18 @@
     <loc>https://gorinov.org/</loc>
     <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gorinov.org/pdf/gorinov_1986_02_pages_62-64.pdf</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gorinov.org/pdf/gorinov_1990_02_pages_76-78.pdf</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
   </url>
 </urlset>
